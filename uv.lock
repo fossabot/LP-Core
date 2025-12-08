@@ -1,5 +1,5 @@
 version = 1
-revision = 2
+revision = 3
 requires-python = ">=3.13"
 
 [[package]]
@@ -264,7 +264,7 @@ requires-dist = [
     { name = "drf-nested-routers", specifier = ">=0.94.1" },
     { name = "drf-spectacular", specifier = ">=0.28.0" },
     { name = "elasticsearch", specifier = "<9" },
-    { name = "extended-dataset-profile", git = "https://github.com/Beebucket/extended_dataset_profile?tag=1.0.0" },
+    { name = "extended-dataset-profile", git = "https://github.com/Mission-KI/LP-EDP?tag=1.0.0" },
     { name = "gunicorn", specifier = ">=23.0.0" },
     { name = "psycopg", extras = ["binary"], specifier = ">=3.2.4" },
     { name = "pymemcache", specifier = ">=4.0.0" },
@@ -404,7 +404,7 @@ wheels = [
 [[package]]
 name = "extended-dataset-profile"
 version = "1.0.0"
-source = { git = "https://github.com/Beebucket/extended_dataset_profile?tag=1.0.0#e7d0da4ba5e95f8ed4dee5c49dffb93707352533" }
+source = { git = "https://github.com/Mission-KI/LP-EDP?tag=1.0.0#5260249c5ddbe83e94b73468f409082a81468772" }
 dependencies = [
     { name = "packaging" },
     { name = "pydantic" },
