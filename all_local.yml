@@ -96,6 +96,10 @@ services:
     environment:
       - discovery.type=single-node
       - xpack.security.enabled=false
+      - http.cors.enabled=true
+      - http.cors.allow-origin=http://localhost:3000,http://localhost:3001
+      - http.cors.allow-headers=X-Requested-With,Content-Type,Content-Length,Authorization
+      - http.cors.allow-credentials=true
     ports:
       - "127.0.0.1:9200:9200"
     volumes:
