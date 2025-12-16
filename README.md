@@ -1,4 +1,6 @@
 # Daseen
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FWeltraumschaf%2FLP-Core.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FWeltraumschaf%2FLP-Core?ref=badge_shield)
+
 
 ## Project Overview
 
@@ -77,3 +79,6 @@ We welcome contributions! To contribute, follow these steps:
 ## License
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FWeltraumschaf%2FLP-Core.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FWeltraumschaf%2FLP-Core?ref=badge_large)
